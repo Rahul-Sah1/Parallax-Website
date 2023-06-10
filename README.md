@@ -23,10 +23,12 @@ To use the Parallax Website, follow these steps:
 The Parallax Website repository includes the following resources:
 
 index.html: The main HTML file that structures the webpage and contains the content.
+
 styles.css: The CSS file that controls the styling and layout of the website.
+
 images/: A directory containing images used in the website.
 
-License
+License:<br>
 The Parallax Website is released under the **MIT Academy of Engineering** License, granting users the freedom to use, modify, and distribute the codebase for both personal and commercial purposes.
 
 Contributors
