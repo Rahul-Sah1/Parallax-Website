@@ -31,7 +31,7 @@ images/: A directory containing images used in the website.
 License:<br>
 The Parallax Website is released under the **MIT Academy of Engineering** License, granting users the freedom to use, modify, and distribute the codebase for both personal and commercial purposes.
 
-Contributors
+Contributors:<br>
 Rahul Kumar Sah: Creator and maintainer of the Parallax Website.
 Feel free to contribute to this project by submitting pull requests or opening issues. Any feedback or suggestions are greatly appreciated!
 
